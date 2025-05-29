@@ -17,7 +17,7 @@ env:
 
 jobs:
   CI:
-    if: github.repository == 'LadybirdBrowser/ladybird'
+    #if: github.repository == 'LadybirdBrowser/ladybird'
 
     runs-on: windows-2022
 
